@@ -1,0 +1,27 @@
+/* .App {
+  text-align: center;
+} */
+
+.input-icons i {
+  display: inline-flex;
+  border: 2px solid red;
+}
+
+.search-icon {
+  color: darkgray;
+  margin: 3px;
+}
+
+.search-input-box {
+  flex-grow: 1;
+  border: 1px solid red;
+}
+
+.input-field {
+  display: flex;
+  align-items: baseline;
+  border: 1px solid;
+  margin: 5px;
+  border-radius: 5px;
+  padding: 10px;
+}
